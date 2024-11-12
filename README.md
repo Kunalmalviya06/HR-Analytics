@@ -1,7 +1,7 @@
 # HR Analytics: Boosting Retention with Data Insights at Adecco India
 
-- **[Dashboard 1](Dashboard1.jpg)**
-- **[Dashboard 2](Dashboard2.jpg)**
+- **![Dashboard 1](Dashboard1.jpg)**
+- **![Dashboard 2](Dashboard2.jpg)**
 
 ## 1. Problem & Background
 **Problem**: Adecco India, a medium-sized tech company, is facing high employee turnover, particularly among junior employees in the sales department. This attrition disrupts productivity, incurs significant costs, and lowers team morale.
