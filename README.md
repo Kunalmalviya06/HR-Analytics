@@ -1,10 +1,9 @@
 # HR Analytics: Boosting Retention with Data Insights at Adecco India
 
-## Dashboard 1  
 ![Dashboard 1](https://drive.google.com/uc?export=view&id=1WZr5pou2unBS1lxd7l1kQu06jyrSqY9_)
 
-## Dashboard 2  
 ![Dashboard 2](https://drive.google.com/uc?export=view&id=1CK_Pdj_jY-l-ICrFCT6F0wZxUX_y_2w_)
+
 
 
 ## 1. Problem & Background
